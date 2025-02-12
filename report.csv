@@ -1,0 +1,20 @@
+Session:,"2024 SPRING SEMESTER"
+Course:,"TCS201-Database Management System"
+Faculty:,"Ram Charan Baishya"
+total,8
+start,2023-01-02
+end,2025-02-09
+slno,roll_no,name,2023-01-02,2023-01-03,2023-01-04,2023-01-05,2023-01-06,2023-01-07,2023-01-08,2025-02-09,attended,percent
+1,CS202301,"Abhishek Upadhyay",P,P,P,A,P,P,P,P,7,87.5
+2,CS202303,"Agastya Joshi",P,P,P,P,P,A,P,P,7,87.5
+3,CS202307,"Aparna Kothari",P,P,P,P,P,P,P,P,8,100
+4,CS202308,"Ayush Nautiyal",P,A,P,P,P,P,P,A,6,75
+5,CS202310,"Daksh Rawat",P,P,P,A,P,P,P,A,6,75
+6,CS202311,"Devansh Khetarpal",P,P,P,A,P,P,P,A,6,75
+7,CS202312,"Dikshant Negi",P,P,P,P,P,A,A,A,5,62.5
+8,CS202314,"Gunjan Pandey",P,A,P,P,P,P,P,A,6,75
+9,CS202316,"Keya Parmar",P,P,P,P,P,A,P,A,6,75
+10,CS202318,"Naman Gusain",P,P,P,A,P,P,P,A,6,75
+11,CS202319,"Pranay Pawan Gupta",P,A,P,P,P,P,P,A,6,75
+12,CS202320,"Priyanshu Gusain",P,P,P,P,P,P,P,A,7,87.5
+13,CS202324,"Vivek Kumar Singh",P,P,P,P,P,P,P,A,7,87.5
